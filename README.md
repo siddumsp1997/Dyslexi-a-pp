@@ -25,7 +25,7 @@ are supports, teaching approaches and strategies to help her/his overcome her
 challenges.
 
 The aim is to develop an interactive learning application (Android) for children
-suering from Dyslexia. This application should inculcate proper approaches and
+suffering from Dyslexia. This application should inculcate proper approaches and
 strategies in order to help the child overcome the challenges faced in reading and
 writing text. At the same time, it should be more interactive, for instance, it
 may have an interface similar to that of a game so that the child wont get bored.
