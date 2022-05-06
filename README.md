@@ -32,7 +32,7 @@ may have an interface similar to that of a game so that the child wont get bored
 Interactive exercises will be given where the child will be asked to write a given
 word/sentence within the stipulated amount of time. The application should be
 intelligent enough to filter out the words with which the child is facing more
-diculty and use these words more frequently in subsequent phases, in order to
+difficulty and use these words more frequently in subsequent phases, in order to
 make the child get comfortable with that word, thus overcoming the difficulty.
 The app has n levels of difficulty, say 1, 2, 3,., n where level 1 contains words
 and the associated sentences of least difficulty ( simple words and sentences). As
