@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="red">#ffff0000</color>
+    <color name="light_grey">#ffe5ea</color>
+    <color name ="light_blue">#b0e0e6</color>
+    <color name ="light_purple">#e4d5ef</color>
+    <color name ="sky_blue">#afc4d9</color>
+    <color name ="dust">#e7dfc3</color>
+    <color name="papaya">#ffefd5</color>
+    <color name="ivory">#eeeee0</color>
+    <color name="pink">#ffb6c1</color>
+    <color name="sky1">#87ceeb</color>
+    <color name="sky2">#87ceff</color>
+    <color name="sky3">#7ec0ee</color>
+    <color name="sky4">#6ca6cd</color>
+
+</resources>

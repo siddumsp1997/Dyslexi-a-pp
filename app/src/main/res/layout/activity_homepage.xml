@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dust"
+    tools:context="com.example.welcome1.btp1.homepage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="Hello @user, your current score : "
+            android:textAppearance="@style/TextAppearance.AppCompat.Light.SearchResult.Title"
+            android:textColorLink="@color/colorPrimary" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="Choose Level : "
+            android:textAppearance="@style/TextAppearance.AppCompat.Light.SearchResult.Title"
+            android:textColorLink="@color/colorPrimary" />
+
+        <Button
+            android:id="@+id/easy_level"
+            android:layout_width="match_parent"
+            android:layout_height="105dp"
+            android:background="@color/light_blue"
+            android:text="Easy"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:id="@+id/medium_level"
+            android:layout_width="match_parent"
+            android:layout_height="103dp"
+            android:text="Medium"
+            android:background="@color/sky2"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:id="@+id/difficult_level"
+            android:layout_width="match_parent"
+            android:layout_height="105dp"
+            android:text="Difficult"
+            android:background="@color/sky3"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+
+        <Button
+            android:id="@+id/ninja_level"
+            android:layout_width="match_parent"
+            android:layout_height="106dp"
+            android:text="Ninja"
+            android:background="@color/sky4"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <!--
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="OPTIONS"
+            android:textAppearance="@style/TextAppearance.AppCompat.Light.SearchResult.Title"
+            android:textColorLink="@color/colorPrimary" />
+        -->
+
+        <Button
+            android:id="@+id/help_button"
+            android:layout_width="match_parent"
+            android:layout_height="105dp"
+            android:text="Help"
+            android:background="@color/light_purple"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+    </LinearLayout>
+
+</ScrollView>
