@@ -17,7 +17,7 @@ and spelling.
 
 A key sign of Dyslexia in kids is trouble in decoding words. This is the ability
 to match letters to sounds and then use that skill to read words accurately and
-fluently. One reason kids have diculty decoding is that they often struggle with
+fluently. One reason kids have difficulty decoding is that they often struggle with
 a more basic language skill called phonemic awareness. This is the ability to
 recognize individual sounds in words. Trouble with this skill can show up as
 early as preschool. If a child has Dyslexia, she/he wont outgrow it. But there
